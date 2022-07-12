@@ -1,5 +1,5 @@
 # Dice Game
-- Basic dice game written in vanilla JavaScript
+*Basic dice game written in vanilla JavaScript deployed [here](https://eireann07.github.io/dice-game/) with Github pages. On refresh, the dice "re-roll" to create a new outcome. 
 
 **What I enjoyed while building this site:** FINALLY MAKING IT WORK. It was so exciting when I was able to make all of the different aspects come together and actually do what they needed to do was exhilarating. 
 
